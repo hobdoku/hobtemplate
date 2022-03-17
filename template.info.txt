@@ -1,0 +1,7 @@
+base     hobtemplate
+author   Hoang Bui
+email    bmhoang@outlook.com
+date     2022-03-17
+name     HoB Template copied from DokuWiki template
+desc     Modified for HoB Wiki
+url      https://wiki.hiheo.com
